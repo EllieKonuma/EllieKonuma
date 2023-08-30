@@ -20,4 +20,4 @@
   
 
 
-![Snake animation](https://github.com/EllieKonuma)
+![Snake animation](https://github.com/EllieKonuma/EllieKonuma/blob/output/github-contribution-grid-snake.svg)
