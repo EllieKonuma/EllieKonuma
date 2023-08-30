@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center"> 
+  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=3500&color=F36DC1&width=435&lines=Oii!+Eu+sou+a+Ellie+Yuka+Konuma+%E1%93%9A%E1%98%8F%E1%97%A2;E+trabalho+com+Frontend+%5Eo%5E" alt="Typing SVG" /></a>
 
-<!--
-**EllieKonuma/EllieKonuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="180px"  src="https://streak-stats.demolab.com/?user=EllieKonuma&theme=omni" />
+  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieKonuma&layout=compact&theme=omni" />
+</div>
+  
+<div>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JS Icon"/> 
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript Icon"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Icon"/> 
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VUE Icon"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML Icon"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS Icon" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git Icon"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github Icon" /> 
+</div>
+<div/>
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
