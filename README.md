@@ -1,7 +1,9 @@
 <div align="center"> 
   <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=3500&color=F36DC1&width=435&lines=Oii!+Eu+sou+a+Ellie+Yuka+Konuma+%E1%93%9A%E1%98%8F%E1%97%A2;E+trabalho+com+Frontend+%5Eo%5E" alt="Typing SVG" /></a>
-
-  <img height="400px"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJhY2w2bWM3dGp4MnZpN2w0aTg4djJpYTJxcnh1dTZrcDE3YWJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WHG5TXsgUDKCP5Ivhk/giphy.gif" />
+<div>
+  <img height="280px"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJhY2w2bWM3dGp4MnZpN2w0aTg4djJpYTJxcnh1dTZrcDE3YWJrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WHG5TXsgUDKCP5Ivhk/giphy.gif" />
+  
+</div>
 
 ##
   
