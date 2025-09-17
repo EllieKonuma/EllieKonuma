@@ -8,7 +8,7 @@
 ##
   
 <div>
-  <img height="180px"  src="https://streak-stats.demolab.com/?user=EllieKonuma&theme=omni" />
+<!--   <img height="180px"  src="https://streak-stats.demolab.com/?user=EllieKonuma&theme=omni" /> -->
   <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieKonuma&layout=compact&theme=omni" />
 </div>
   
